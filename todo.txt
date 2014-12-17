@@ -1,0 +1,18 @@
+TODO list: 
+
+Requerimentos:
+-instalar apache para correr php
+-instalar linux
+-instalar intelijj
+
+
+Tarefas
+-importar configs via php
+interface cliente, Servidor:
+	- página de apresentaçao dos switches e as configuracoes(ou programa c)
+	- página para comparar configuracoes
+	- adicionar equipamentos via interface web (guardar num ficheiro para ser lido pelo servidor)	
+	(sugeria a seguinte estrutura para este ficheiro: ip nomeswitch tipoconeccao)
+	- exportar ficheiros
+	- parte de mandar mail em caso de avaria
+	
